@@ -2,8 +2,6 @@
 <img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/black2logo.jpeg">
 <img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/white2logo.jpeg">
 </p>
-<br/>
-<br/>
 <p align="center" style="display:inline-block;">
 <img src="https://img.shields.io/github/check-runs/Pokemon-Demake-Team/pokeblack2/master?logo=github&label=Build" href="https://github.com/Pokemon-Demake-Team/pokeblack2"></p>
 
