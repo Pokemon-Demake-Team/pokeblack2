@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" style="display:inline-block;">
 <img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/black2logo.jpeg">
 <img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/white2logo.jpeg">
 </p>
