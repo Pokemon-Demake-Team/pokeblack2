@@ -1,5 +1,7 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/black2logo.jpeg"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/white2logo.jpeg"></p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/black2logo.jpeg">
+<img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/white2logo.jpeg">
+</p>
 
 ***
 
