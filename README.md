@@ -1,3 +1,8 @@
+<p align="center"><img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/black2logo.jpeg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Pokemon-Demake-Team/pokeblack2/refs/heads/master/assets/logos/white2logo.jpeg"></p>
+
+***
+
 # Pokémon Black and White 2 - GBA Demake
 Welcome to pokeblack2! pokeblack2 is a GBA Demake of Pokémon Black 2 and Pokémon White 2, intended to be as faithful to the original games as possible. pokeblack2 is built upon the incredible work of the [rh-hideout](https://github.com/rh-hideout) team, and their work on the [pokeemerald-expansion](https://github.com/rh-hideout/pokeemerald-expansion). While pokeblack2 is intended to be as faithful as possible to the original Pokémon Black 2/White 2 games, there are still some features and mechanics that will be absent, as we are a small team with limited time and resources.
 
